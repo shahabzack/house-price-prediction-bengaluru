@@ -39,8 +39,7 @@ To set up the project locally, follow these steps:
 3. Click on the "Predict" button to view the estimated house price based on the input data.
 4. Explore different features and scenarios to understand how the model behaves.
 
-## Demo
-For a live demo of the web application, visit [Demo Link](#) (Replace with your demo link if available).
+
 
 ## Contributing
 Contributions to the project are welcome! If you have any ideas for improvements or find any issues, please open an issue or submit a pull request.
